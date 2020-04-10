@@ -1,0 +1,12 @@
+{
+  "name": "@yomguithereal/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config.",
+  "main": "index.js",
+  "repository": "git@github.com:yomguithereal/prettier-config.git",
+  "author": {
+    "name": "Guillaume Plique",
+    "url": "http://github.com/Yomguithereal"
+  },
+  "license": "MIT"
+}
